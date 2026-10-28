@@ -1,0 +1,14 @@
+# Code::Blocks
+*.depend
+*.layout
+
+# Dossiers de build
+bin/
+obj/
+Debug/
+Release/
+
+# Fichiers compilés
+*.exe
+*.o
+*.out
